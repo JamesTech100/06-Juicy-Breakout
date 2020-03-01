@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bensound-creativeminds.ogg-6cf3a30b53759f27fcbcef3c2c4fa3b1.oggstr"
+
+[deps]
+
+source_file="res://Assets/bensound-creativeminds.ogg"
+dest_files=[ "res://.import/bensound-creativeminds.ogg-6cf3a30b53759f27fcbcef3c2c4fa3b1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
